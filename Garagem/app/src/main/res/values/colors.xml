@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="fundo_preto">#232323</color>
     <color name="laranjinha">#FF9800</color>
+    <color name="laranjinha_escuro">#CA7A03</color>
     <color name="quase_azul">#6B818C</color>
+    <color name="vermelho">#cc2936</color>
 </resources>
